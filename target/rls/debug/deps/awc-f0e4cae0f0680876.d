@@ -1,0 +1,14 @@
+/Users/cobyeastwood/Desktop/bit/target/rls/debug/deps/awc-f0e4cae0f0680876.rmeta: /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs
+
+/Users/cobyeastwood/Desktop/bit/target/rls/debug/deps/awc-f0e4cae0f0680876.d: /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs /Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs
+
+/Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs:
+/Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs:
+/Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs:
+/Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs:
+/Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs:
+/Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs:
+/Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs:
+/Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs:
+/Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs:
+/Users/cobyeastwood/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs:
