@@ -1,10 +1,17 @@
 mod api;
 
-// use std::env;
-// use async_std::task;
+use chrono::DateTime;
+use chrono::offset::Utc;
+use std::time::{SystemTime, UNIX_EPOCH};
+
+fn get_now() {
+  let s: DateTime<Utc> = SystemTime::now().into();
+  println!("Running Server: {}", s.format("%d/%m/%Y %T"));
+}
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
-  api::api()
+  get_now();
+  api::run()
   .await
 }

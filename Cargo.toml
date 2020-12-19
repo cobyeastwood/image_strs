@@ -8,7 +8,11 @@ edition = "2018"
 
 [dependencies]
 actix-web = "3"
-
-[dependencies.async-std]
-version = "0.99"
-features = ["unstable"]
+actix-multipart = "0.3.0"
+sanitize-filename = "0.2"
+image = "0.23.12"
+serde = "1.0.118"
+chrono = "0.4.19"
+json = "0.12.4"
+time = "0.2.23"
+futures = "0.3.8"
